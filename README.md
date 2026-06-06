@@ -52,3 +52,4 @@ En esta actividad aprenderás a usar Git y GitHub para trabajar con repositorios
      ```
 
 #UNA VEZ TERMINADO, AGREGA TU NOMBRE, APELLIDOS Y HORA.
+Nombre: Jeyson Reynaldo
